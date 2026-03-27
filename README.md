@@ -70,7 +70,7 @@ This project aims to:
 
 ### Home Screen
 
-![Home](Images/Home.png)
+![Home](Images/home_screen.png)
 
 This is the entry screen of the mobile application, introducing users to the AI assistant experience.
 
@@ -78,7 +78,7 @@ This is the entry screen of the mobile application, introducing users to the AI 
 
 ### Video Summarization
 
-![Summarize](Images/Summarize-Video.png)
+![Summarize](Images/summarize_video.png)
 
 The assistant summarizes YouTube videos by extracting key insights, saving users time and effort.
 
@@ -86,7 +86,7 @@ The assistant summarizes YouTube videos by extracting key insights, saving users
 
 ### Weather 
 
-![Weather](Images/Weather.png)
+![Weather](Images/weather_and_personal.png)
 
 The assistant provides **weather updates** based on the user's context or request.
 It can adapt responses dynamically, delivering relevant information such as current conditions and recommendations tailored to the user.
@@ -96,7 +96,7 @@ Note that it can remember the user name.
 
 ### Image Generation
 
-![Generate](Images/Generate-Image.png)
+![Generate](Images/generate_image.png)
 
 Users can generate images using text prompts. The assistant converts ideas into visuals using AI-powered image generation.
 
