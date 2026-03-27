@@ -70,7 +70,7 @@ This project aims to:
 
 ### Home Screen
 
-![Home](images/home.png)
+![Home](images/Home.png)
 
 This is the entry screen of the mobile application, introducing users to the AI assistant experience.
 
@@ -78,24 +78,25 @@ This is the entry screen of the mobile application, introducing users to the AI 
 
 ### Video Summarization
 
-![Summarize](images/summarize.png)
+![Summarize](images/Summarize Video.png)
 
 The assistant summarizes YouTube videos by extracting key insights, saving users time and effort.
 
 ---
 
-### Weather (Personalized Experience)
+### Weather 
 
-![Weather](images/weather.png)
+![Weather](images/Weather.png)
 
-The assistant provides **personalized weather updates** based on the user's context or request.
+The assistant provides **weather updates** based on the user's context or request.
 It can adapt responses dynamically, delivering relevant information such as current conditions and recommendations tailored to the user.
+Note that it can remember the user name.  
 
 ---
 
 ### Image Generation
 
-![Generate](images/generate.png)
+![Generate](images/Generate Image.png)
 
 Users can generate images using text prompts. The assistant converts ideas into visuals using AI-powered image generation.
 
@@ -124,7 +125,7 @@ uvicorn main:app --reload
 ---
 
 
-## 👩‍💻 Author
+## Author
 
 **Asmaa Ibrahim**
 AI & Machine Learning Engineer
