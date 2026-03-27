@@ -53,11 +53,11 @@ This project aims to:
 
 3️- The system processes the input:
 
-    - Text/Voice → handled by the LLM (Llama 3 via Groq)
+    - Text/Voice: handled by the LLM (Llama 3 via Groq)
     
-    - Images → processed using image recognition (OCR)
+    - Images: processed using image recognition (OCR)
     
-    - Documents → analyzed and summarized
+    - Documents: analyzed and summarized
 
 4️- The assistant generates a response or performs the requested action
 
@@ -70,7 +70,7 @@ This project aims to:
 
 ### Home Screen
 
-![Home](images/Home.png)
+![Home](Images/Home.png)
 
 This is the entry screen of the mobile application, introducing users to the AI assistant experience.
 
@@ -78,7 +78,7 @@ This is the entry screen of the mobile application, introducing users to the AI 
 
 ### Video Summarization
 
-![Summarize](images/Summarize Video.png)
+![Summarize](Images/Summarize Video.png)
 
 The assistant summarizes YouTube videos by extracting key insights, saving users time and effort.
 
@@ -86,7 +86,7 @@ The assistant summarizes YouTube videos by extracting key insights, saving users
 
 ### Weather 
 
-![Weather](images/Weather.png)
+![Weather](Images/Weather.png)
 
 The assistant provides **weather updates** based on the user's context or request.
 It can adapt responses dynamically, delivering relevant information such as current conditions and recommendations tailored to the user.
@@ -96,7 +96,7 @@ Note that it can remember the user name.
 
 ### Image Generation
 
-![Generate](images/Generate Image.png)
+![Generate](Images/Generate Image.png)
 
 Users can generate images using text prompts. The assistant converts ideas into visuals using AI-powered image generation.
 
