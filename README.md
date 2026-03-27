@@ -78,7 +78,7 @@ This is the entry screen of the mobile application, introducing users to the AI 
 
 ### Video Summarization
 
-![Summarize](Images/Summarize Video.png)
+![Summarize](Images/Summarize-Video.png)
 
 The assistant summarizes YouTube videos by extracting key insights, saving users time and effort.
 
@@ -96,7 +96,7 @@ Note that it can remember the user name.
 
 ### Image Generation
 
-![Generate](Images/Generate Image.png)
+![Generate](Images/Generate-Image.png)
 
 Users can generate images using text prompts. The assistant converts ideas into visuals using AI-powered image generation.
 
