@@ -108,8 +108,8 @@ Users can generate images using text prompts. The assistant converts ideas into 
 ### 1- Clone the repository
 
 ```bash id="d5w8mn"
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/engasmaaibrahim/AI-Powered-Personal-Assistant.git
+cd AI-Powered-Personal-Assistant
 ```
 
 ---
